@@ -1,15 +1,15 @@
 [![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)](https://docs.flutter.dev/)
-<h1 align="center">Hi 👋, I'm Raja Mondal</h1>
+<h1 align="center">Hi 👋, I'm Biswajit Ghosh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajamondal99&label=Profile%20views&color=0e75b6&style=flat" alt="rajamondal99" /> </p>
 
-- 🔭 I’m currently working on **Flutter and Odoo**
+- 🔭 I’m currently working on **PHP Laravel**
 
-- 💬 Ask me about **Flutter Python Odoo Php Sql**
+- 💬 Ask me about **Flutter Laravel Php Sql**
 
-- 📫 How to reach me **raja@sltecherpsolution.com**
+- 📫 How to reach me **biswajit469@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
