@@ -1,4 +1,4 @@
-[![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
+![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
 <h1 align="center">Hi 👋, I'm Biswajit Ghosh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
