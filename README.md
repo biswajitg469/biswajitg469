@@ -1,6 +1,6 @@
-![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/07/Group-3.png)
-[![Software Developer](https://cdn.pixabay.com/photo/2017/08/06/00/54/software-2591216_1280.jpg)](https://github.com/yourusername)
+![MasterHead](https://imgur.com/47eLmco)
 
+[Imgur]()
 <h1 align="center">Hi 👋, I'm Biswajit Ghosh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
