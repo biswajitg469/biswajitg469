@@ -1,6 +1,6 @@
-![MasterHead](https://imgur.com/47eLmco)
+![MasterHead](https://i.ibb.co/Z6GM7MQV/github-header-image.png)
 
-[Imgur]()
+
 <h1 align="center">Hi 👋, I'm Biswajit Ghosh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
